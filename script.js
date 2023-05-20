@@ -15,3 +15,12 @@ $(window).on('scroll',function(){
             $("nav ul").toggleClass("active")
     })
     })
+
+
+
+
+
+    // BOX 3
+    
+
+    
